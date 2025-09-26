@@ -2,7 +2,6 @@
   "name": "apostillates-notary-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aizakmi08.github.io/APOSTILLATES-and-NOTARY-SERVICES",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=8.0.0"
@@ -18,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI=false react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
